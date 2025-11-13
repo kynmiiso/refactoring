@@ -1,4 +1,9 @@
-b8c010b (HEAD -> main, origin/main, origin/HEAD) Fixed CheckStyle issues Task 1.1
+21ba0e6 Task 2.4: Removing Total Volume Credits and Total Amount
+b63be24 Task 2.3: Removing the frmt Variable
+9b1cab4 Task 2.2: Extracting Volume Credits
+a40fd42 Task 2.1: Extracting the switch statement logic
+dd9f032 Task 1.2 log.txt
+b8c010b Fixed CheckStyle issues Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
